@@ -21,5 +21,7 @@ Finalmente, se generó un dashboard agregando datos más relevantes, KPIs, gráf
 Al analizar el dataset *online_retail_II* y generar una clasificación ABC para los múltiples productos comercializados, podemos concluir que existe una gran cantidad de productos de tipo C (alrededor del 50%) que están generando altos costos de almacenamiento e inventario cuando únicamente se encuentran generando el 5% de los ingresos totales, se debe realizar un análisis posterior para determinar si vale la pena seguirlos manteniendo o enfocar esos recursos en mejorar las condiciones de los productos tipo A (alrededor de un 20%) que se encuentran generando el 80% de los ingresos totales.
 De igual manera, la mayor concentración de las ventas se encuentran en el Reino Unido, seguido por Irlanda con un muy gran márgen, los servicios deben concentrarse de manera especial en esa sección europea ya que es la que mayor consume. Se vio un incremento muy grande de ventas del año 2009 al 2010, subiendo en unos impactantes 8 millones y reduciendo brevemente el siguiente año.
 ## Contacto
-
+¡Gracias por llegar hasta aquí! Espero que este pequeño inicio sea de tu interés y espero poder colaborar pronto.
+- LinkedIn: https://www.linkedin.com/in/miguel-a-cuervo-8388aa201/
+- Correo: mcuervo9@outlook.com
 
